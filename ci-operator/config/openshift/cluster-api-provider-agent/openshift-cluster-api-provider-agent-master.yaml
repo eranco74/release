@@ -23,6 +23,10 @@ base_images:
     name: ocm-2.6
     namespace: edge-infrastructure
     tag: assisted-service-operator-index
+  assisted-service-scripts:
+    name: ocm-2.6
+    namespace: edge-infrastructure
+    tag: assisted-service-operator-index
   assisted-test-infra:
     name: ocm-2.6
     namespace: edge-infrastructure
